@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544623395 source:c:\users\administrator\desktop\gadval zarb\main.c
+	<stdio.h>
+	<stdlib.h>
+

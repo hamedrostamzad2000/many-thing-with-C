@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547210301 source:c:\users\administrator\desktop\poshe\main.c
+	<stdio.h>
+	<stdlib.h>
+

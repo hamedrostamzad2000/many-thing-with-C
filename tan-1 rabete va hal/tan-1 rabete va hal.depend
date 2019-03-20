@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546294901 source:c:\users\administrator\desktop\tan-1 rabete va hal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
